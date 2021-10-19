@@ -2,12 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'meydanesorkh9'
+copyright = '2021, meydanesorkh9'
+author = 'meydanesorkh 9'
 
-release = '0.1'
-version = '0.1.0'
+
 
 # -- General configuration
 
